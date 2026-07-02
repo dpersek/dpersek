@@ -22,9 +22,9 @@ I am early in my open source journey, so this list is currently small: projects
 where a contribution actually merged upstream. It should grow quickly.
 
 <!-- profile-contributions:start -->
-| Project | Contribution | PR |
-| --- | --- | --- |
-| [SnapOtter](https://github.com/snapotter-hq/SnapOtter) | Repaired copied AI virtualenv paths during Docker bootstrap and added regression coverage. | [PR #390](https://github.com/snapotter-hq/SnapOtter/pull/390) |
-| [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | Rendered math formulas in quiz text and added focused tests around formula parsing and fallback behavior. | [PR #833](https://github.com/THU-MAIC/OpenMAIC/pull/833) |
-| [open-wispr](https://github.com/human37/open-wispr) | Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. | [PR #74](https://github.com/human37/open-wispr/pull/74) |
+| Project | Contribution |
+| --- | --- |
+| [SnapOtter](https://github.com/snapotter-hq/SnapOtter) | Repaired copied AI virtualenv paths during Docker bootstrap and added regression coverage. |
+| [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | Rendered math formulas in quiz text and added focused tests around formula parsing and fallback behavior. |
+| [open-wispr](https://github.com/human37/open-wispr) | Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
 <!-- profile-contributions:end -->
