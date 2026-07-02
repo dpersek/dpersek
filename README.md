@@ -6,9 +6,9 @@ family moved to a farm in North Carolina, and after a quiet stretch I started
 building again: PersekOS, AI tools, and now the beginning of my open-source
 work.
 
-- Site: [dustinpersek.com](https://dustinpersek.com)
-- X: [@dpersek](https://x.com/dpersek)
-- LinkedIn: [dustinpersek](https://linkedin.com/in/dustinpersek)
+[![Website](https://img.shields.io/badge/Website-dustinpersek.com-555?style=flat&logo=safari&logoColor=white)](https://dustinpersek.com)
+[![X @dpersek](https://img.shields.io/badge/X-@dpersek-000?style=flat&logo=x&logoColor=white)](https://x.com/dpersek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dustinpersek-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dustinpersek)
 
 ## Start here
 
