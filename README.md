@@ -24,6 +24,7 @@ where a contribution actually merged upstream. It should grow quickly.
 | Project | Contribution |
 | --- | --- |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | OpenWhispr #1023 clipboard restore delay regression; Preserved rich clipboard formats during restore. |
+| [last30days-skill](https://github.com/mvanhorn/last30days-skill) | last30days skillignore regression coverage follow-up |
 | [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | codebase-memory-mcp #731 Visual Studio strict tool schema |
 | [browser](https://github.com/lightpanda-io/browser) | lightpanda browser #2856 charset unicode mojibake |
 | [SnapOtter](https://github.com/snapotter-hq/SnapOtter) | Repaired copied AI virtualenv paths during Docker bootstrap and added regression coverage. |
