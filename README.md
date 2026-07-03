@@ -23,8 +23,8 @@ where a contribution actually merged upstream. It should grow quickly.
 <!-- profile-contributions:start -->
 | Project | Contribution |
 | --- | --- |
-| [browser](https://github.com/lightpanda-io/browser) | lightpanda browser #2856 charset unicode mojibake |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | OpenWhispr #1023 clipboard restore delay regression; Preserved rich clipboard formats during restore. |
+| [browser](https://github.com/lightpanda-io/browser) | lightpanda browser #2856 charset unicode mojibake |
 | [SnapOtter](https://github.com/snapotter-hq/SnapOtter) | Repaired copied AI virtualenv paths during Docker bootstrap and added regression coverage. |
 | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | Rendered math formulas in quiz text and added focused tests around formula parsing and fallback behavior. |
 | [open-wispr](https://github.com/human37/open-wispr) | Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
