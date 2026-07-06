@@ -23,6 +23,7 @@ where a contribution actually merged upstream. It should grow quickly.
 <!-- profile-contributions:start -->
 | Project | Contribution |
 | --- | --- |
+| [open-wispr](https://github.com/human37/open-wispr) | open-wispr #77 sleep/wake recording recovery; open-wispr #78 clipboard insertion fix; open-wispr #70 configurable Whisper prompt; Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
 | [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | codebase-memory-mcp #720 Python LSP eval-depth guard; codebase-memory-mcp #801 libgit2 allocator version floor; codebase-memory-mcp #803 UI delete unwatch cleanup; codebase-memory-mcp #731 Visual Studio strict tool schema |
 | [remotion](https://github.com/remotion-dev/remotion) | Remotion #8732 WebM tail frame extraction; Remotion #8677 InputDragger keyboard focus |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | OpenWhispr #1023 clipboard restore delay regression; Preserved rich clipboard formats during restore. |
@@ -32,5 +33,4 @@ where a contribution actually merged upstream. It should grow quickly.
 | [browser](https://github.com/lightpanda-io/browser) | lightpanda browser #2856 charset unicode mojibake |
 | [SnapOtter](https://github.com/snapotter-hq/SnapOtter) | Repaired copied AI virtualenv paths during Docker bootstrap and added regression coverage. |
 | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | Rendered math formulas in quiz text and added focused tests around formula parsing and fallback behavior. |
-| [open-wispr](https://github.com/human37/open-wispr) | Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
 <!-- profile-contributions:end -->
