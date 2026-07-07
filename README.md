@@ -3,7 +3,7 @@
 I retired from corporate America after twenty years in payments and enterprise
 systems, most of it at Visa, ending as Chief Operating Officer and Chief Product Officer at Fraedom in Auckland, New Zealand.
 Then my family moved to a farm in North Carolina, and after a quiet stretch I started
-building again: PersekOS, AI tools, and now the beginning of my open-source work.
+building again: PersekOS, AI tools, and now the beginning of my OSS work.
 
 [![Website](https://img.shields.io/badge/Website-dustinpersek.com-555?style=flat&logo=safari&logoColor=white)](https://dustinpersek.com)
 [![X @dpersek](https://img.shields.io/badge/X-@dpersek-000?style=flat&logo=x&logoColor=white)](https://x.com/dpersek)
