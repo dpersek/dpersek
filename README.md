@@ -23,7 +23,7 @@ where a contribution actually merged upstream. It should grow quickly.
 <!-- profile-contributions:start -->
 | Project | Contribution |
 | --- | --- |
-| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | real ThreadSanitizer test target; Python LSP eval-depth guard; libgit2 allocator version floor; UI delete unwatch cleanup; Visual Studio strict tool schema |
+| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | real ThreadSanitizer test target; tools/list pagination compatibility; Python LSP eval-depth guard; libgit2 allocator version floor; UI delete unwatch cleanup; Visual Studio strict tool schema |
 | [open-wispr](https://github.com/human37/open-wispr) | configurable Whisper prompt; sleep/wake recording recovery; clipboard insertion fix; Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
 | [cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | cli-printing-press #3497 offset/page bare --all pagination; cli-printing-press #3477 array request body stdin; remove vendor-specific profile wording |
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Vibe-Trading #403 IM reply timeout config, PR #413; preflight redirect |
