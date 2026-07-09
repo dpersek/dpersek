@@ -29,6 +29,7 @@ where a contribution actually merged upstream. It should grow quickly.
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Vibe-Trading #403 IM reply timeout config, PR #413; preflight redirect |
 | [remotion](https://github.com/remotion-dev/remotion) | WebM tail frame extraction; InputDragger keyboard focus |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | clipboard restore delay regression; Preserved rich clipboard formats during restore. |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | SurfSense #1354 separate embedding base URL |
 | [impeccable](https://github.com/pbakaus/impeccable) | impeccable #334 Google Fonts css2 family parsing |
 | [openmed](https://github.com/maziyarpanahi/openmed) | OpenMed #288 biomedical NER entity type categories, PR #1408 |
 | [server](https://github.com/music-assistant/server) | preserve Universal Player startup restore settings |
