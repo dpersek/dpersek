@@ -37,6 +37,7 @@ where a contribution actually merged upstream. It should grow quickly.
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Vibe-Trading #403 IM reply timeout config, PR #413; preflight redirect |
 | [remotion](https://github.com/remotion-dev/remotion) | WebM tail frame extraction; InputDragger keyboard focus |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | clipboard restore delay regression; Preserved rich clipboard formats during restore. |
+| [graphiti](https://github.com/getzep/graphiti) | Fix Graphiti Docker Compose PATH interpolation |
 | [astryx](https://github.com/facebook/astryx) | ChatComposerInput child onChange submit flow |
 | [strix](https://github.com/usestrix/strix) | Linux release binary GLIBC baseline |
 | [SurfSense](https://github.com/MODSetter/SurfSense) | SurfSense #1354 separate embedding base URL |
