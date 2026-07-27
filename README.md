@@ -33,7 +33,7 @@ where a contribution actually merged upstream. It should grow quickly.
 | [cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | cli-printing-press #3504 OAuth token persistence; cli-printing-press #3497 offset/page bare --all pagination; cli-printing-press #3477 array request body stdin; remove vendor-specific profile wording |
 | [open-wispr](https://github.com/human37/open-wispr) | configurable Whisper prompt; sleep/wake recording recovery; clipboard insertion fix; Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | OpenWhispr #1007 local model download state; clipboard restore delay regression; Preserved rich clipboard formats during restore. |
-| [nono](https://github.com/nolabs-ai/nono) | network block upstream proxy conflict; intercept argv matcher hardening |
+| [nono](https://github.com/nolabs-ai/nono) | explicit intercept match predicates; network block upstream proxy conflict; intercept argv matcher hardening |
 | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | OpenMAIC #876 isDeckComplete predicate, PR #883; Rendered math formulas in quiz text and added focused tests around formula parsing and fallback behavior. |
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Vibe-Trading #403 IM reply timeout config, PR #413; preflight redirect |
 | [remotion](https://github.com/remotion-dev/remotion) | WebM tail frame extraction; InputDragger keyboard focus |
