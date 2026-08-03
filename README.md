@@ -32,11 +32,12 @@ where a contribution actually merged upstream. It should grow quickly.
 | [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | real ThreadSanitizer test target; tools/list pagination compatibility; Python LSP eval-depth guard; libgit2 allocator version floor; UI delete unwatch cleanup; Visual Studio strict tool schema |
 | [cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | cli-printing-press #3504 OAuth token persistence; cli-printing-press #3497 offset/page bare --all pagination; cli-printing-press #3477 array request body stdin; remove vendor-specific profile wording |
 | [open-wispr](https://github.com/human37/open-wispr) | configurable Whisper prompt; sleep/wake recording recovery; clipboard insertion fix; Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
-| [openwhispr](https://github.com/OpenWhispr/openwhispr) | OpenWhispr #1007 local model download state; clipboard restore delay regression; Preserved rich clipboard formats during restore. |
 | [nono](https://github.com/nolabs-ai/nono) | explicit intercept match predicates; network block upstream proxy conflict; intercept argv matcher hardening |
+| [openwhispr](https://github.com/OpenWhispr/openwhispr) | OpenWhispr #1007 local model download state; clipboard restore delay regression; Preserved rich clipboard formats during restore. |
 | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | OpenMAIC #876 isDeckComplete predicate, PR #883; Rendered math formulas in quiz text and added focused tests around formula parsing and fallback behavior. |
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Vibe-Trading #403 IM reply timeout config, PR #413; preflight redirect |
 | [remotion](https://github.com/remotion-dev/remotion) | WebM tail frame extraction; InputDragger keyboard focus |
+| [yq](https://github.com/mikefarah/yq) | mikefarah/yq #2600, PR #2765 |
 | [graphiti](https://github.com/getzep/graphiti) | Fix Graphiti Docker Compose PATH interpolation |
 | [astryx](https://github.com/facebook/astryx) | ChatComposerInput child onChange submit flow |
 | [strix](https://github.com/usestrix/strix) | Linux release binary GLIBC baseline |
