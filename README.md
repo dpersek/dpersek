@@ -37,6 +37,7 @@ where a contribution actually merged upstream. It should grow quickly.
 | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | OpenMAIC #876 isDeckComplete predicate, PR #883; Rendered math formulas in quiz text and added focused tests around formula parsing and fallback behavior. |
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Vibe-Trading #403 IM reply timeout config, PR #413; preflight redirect |
 | [remotion](https://github.com/remotion-dev/remotion) | WebM tail frame extraction; InputDragger keyboard focus |
+| [hermes-agent](https://github.com/NousResearch/hermes-agent) | custom-provider pricing guard |
 | [qmd](https://github.com/tobi/qmd) | multi-get docid resolution |
 | [yq](https://github.com/mikefarah/yq) | delete commented empty list YAML output |
 | [graphiti](https://github.com/getzep/graphiti) | Fix Graphiti Docker Compose PATH interpolation |
