@@ -34,6 +34,7 @@ where a contribution actually merged upstream. It should grow quickly.
 | [open-wispr](https://github.com/human37/open-wispr) | configurable Whisper prompt; sleep/wake recording recovery; clipboard insertion fix; Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
 | [nono](https://github.com/nolabs-ai/nono) | explicit intercept match predicates; network block upstream proxy conflict; intercept argv matcher hardening |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | OpenWhispr #1007 local model download state; clipboard restore delay regression; Preserved rich clipboard formats during restore. |
+| [openmed](https://github.com/maziyarpanahi/openmed) | HTML text extraction with source offsets; biomedical NER entity type categories |
 | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | OpenMAIC #876 isDeckComplete predicate, PR #883; Rendered math formulas in quiz text and added focused tests around formula parsing and fallback behavior. |
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Vibe-Trading #403 IM reply timeout config, PR #413; preflight redirect |
 | [remotion](https://github.com/remotion-dev/remotion) | WebM tail frame extraction; InputDragger keyboard focus |
@@ -45,7 +46,6 @@ where a contribution actually merged upstream. It should grow quickly.
 | [strix](https://github.com/usestrix/strix) | Linux release binary GLIBC baseline |
 | [SurfSense](https://github.com/MODSetter/SurfSense) | SurfSense #1354 separate embedding base URL |
 | [impeccable](https://github.com/pbakaus/impeccable) | impeccable #334 Google Fonts css2 family parsing |
-| [openmed](https://github.com/maziyarpanahi/openmed) | OpenMed #288 biomedical NER entity type categories, PR #1408 |
 | [server](https://github.com/music-assistant/server) | preserve Universal Player startup restore settings |
 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | last30days skillignore regression coverage follow-up |
 | [browser](https://github.com/lightpanda-io/browser) | charset unicode mojibake |
