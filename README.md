@@ -38,6 +38,7 @@ where a contribution actually merged upstream. It should grow quickly.
 | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | isDeckComplete predicate; Rendered math formulas in quiz text and added focused tests around formula parsing and fallback behavior. |
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | IM reply timeout config; preflight redirect |
 | [remotion](https://github.com/remotion-dev/remotion) | WebM tail frame extraction; InputDragger keyboard focus |
+| [hyperframes](https://github.com/heygen-com/hyperframes) | batch render flag forwarding |
 | [hermes-agent](https://github.com/NousResearch/hermes-agent) | custom-provider pricing guard |
 | [qmd](https://github.com/tobi/qmd) | multi-get docid resolution |
 | [yq](https://github.com/mikefarah/yq) | delete commented empty list YAML output |
