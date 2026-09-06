@@ -29,7 +29,7 @@ where a contribution actually merged upstream. It should grow quickly.
 <!-- profile-contributions:start -->
 | Project | Contribution |
 | --- | --- |
-| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | real ThreadSanitizer test target; tools/list pagination compatibility; Python LSP eval-depth guard; libgit2 allocator version floor; UI delete unwatch cleanup; Visual Studio strict tool schema |
+| [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | semantic search hardening; real ThreadSanitizer test target; tools/list pagination compatibility; Python LSP eval-depth guard; libgit2 allocator version floor; UI delete unwatch cleanup; Visual Studio strict tool schema |
 | [cli-printing-press](https://github.com/mvanhorn/cli-printing-press) | OAuth token persistence; offset/page bare --all pagination; array request body from stdin; remove vendor-specific profile wording |
 | [open-wispr](https://github.com/human37/open-wispr) | configurable Whisper prompt; sleep/wake recording recovery; clipboard insertion fix; Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
 | [nono](https://github.com/nolabs-ai/nono) | explicit intercept match predicates; network block upstream proxy conflict; intercept argv matcher hardening |
