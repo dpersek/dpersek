@@ -34,6 +34,7 @@ where a contribution actually merged upstream. It should grow quickly.
 | [open-wispr](https://github.com/human37/open-wispr) | configurable Whisper prompt; sleep/wake recording recovery; clipboard insertion fix; Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
 | [nono](https://github.com/nolabs-ai/nono) | explicit intercept match predicates; network block upstream proxy conflict; intercept argv matcher hardening |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | local model download state; clipboard restore delay regression; Preserved rich clipboard formats during restore. |
+| [last30days-skill](https://github.com/mvanhorn/last30days-skill) | last30days-skill #946 arXiv normalization date-window fix; last30days skillignore regression coverage follow-up |
 | [openmed](https://github.com/maziyarpanahi/openmed) | HTML text extraction with source offsets; biomedical NER entity type categories |
 | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | isDeckComplete predicate; Rendered math formulas in quiz text and added focused tests around formula parsing and fallback behavior. |
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | IM reply timeout config; preflight redirect |
@@ -48,7 +49,6 @@ where a contribution actually merged upstream. It should grow quickly.
 | [SurfSense](https://github.com/MODSetter/SurfSense) | separate embedding base URL |
 | [impeccable](https://github.com/pbakaus/impeccable) | Google Fonts css2 family parsing |
 | [server](https://github.com/music-assistant/server) | preserve Universal Player startup restore settings |
-| [last30days-skill](https://github.com/mvanhorn/last30days-skill) | last30days skillignore regression coverage follow-up |
 | [browser](https://github.com/lightpanda-io/browser) | charset unicode mojibake |
 | [SnapOtter](https://github.com/snapotter-hq/SnapOtter) | Repaired copied AI virtualenv paths during Docker bootstrap and added regression coverage. |
 <!-- profile-contributions:end -->
