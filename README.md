@@ -34,13 +34,13 @@ where a contribution actually merged upstream. It should grow quickly.
 | [open-wispr](https://github.com/human37/open-wispr) | configurable Whisper prompt; sleep/wake recording recovery; clipboard insertion fix; Handled Homebrew trust installer failures with clearer remediation and installer regression coverage. |
 | [nono](https://github.com/nolabs-ai/nono) | explicit intercept match predicates; network block upstream proxy conflict; intercept argv matcher hardening |
 | [openwhispr](https://github.com/OpenWhispr/openwhispr) | local model download state; clipboard restore delay regression; Preserved rich clipboard formats during restore. |
+| [hermes-agent](https://github.com/NousResearch/hermes-agent) | empty directories in file search; custom-provider pricing guard |
 | [last30days-skill](https://github.com/mvanhorn/last30days-skill) | last30days-skill #946 arXiv normalization date-window fix; last30days skillignore regression coverage follow-up |
 | [openmed](https://github.com/maziyarpanahi/openmed) | HTML text extraction with source offsets; biomedical NER entity type categories |
 | [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | isDeckComplete predicate; Rendered math formulas in quiz text and added focused tests around formula parsing and fallback behavior. |
 | [Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | IM reply timeout config; preflight redirect |
 | [remotion](https://github.com/remotion-dev/remotion) | WebM tail frame extraction; InputDragger keyboard focus |
 | [hyperframes](https://github.com/heygen-com/hyperframes) | batch render flag forwarding |
-| [hermes-agent](https://github.com/NousResearch/hermes-agent) | custom-provider pricing guard |
 | [qmd](https://github.com/tobi/qmd) | multi-get docid resolution |
 | [yq](https://github.com/mikefarah/yq) | delete commented empty list YAML output |
 | [graphiti](https://github.com/getzep/graphiti) | Docker Compose PATH interpolation fix |
